@@ -21,6 +21,6 @@ begin
         if prima then
             write(i, ',');
     end;
-    writeln;
+        writeln;
     readln;
 end.
