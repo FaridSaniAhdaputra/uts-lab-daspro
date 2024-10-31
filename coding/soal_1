@@ -21,7 +21,6 @@ begin
     write('Jumlah Produk 3: '); readln(jumlah3);
 
     totalHarga := (harga1 * jumlah1) + (harga2 * jumlah2) + (harga3 * jumlah3);
-
     diskonHari := 0.0;
     if (hari = 'Senin')  then
         diskonHari := 10
